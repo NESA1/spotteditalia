@@ -175,7 +175,7 @@ function username(){
 <div class="pb-4"></div>
 <div class="dropdown">
   <button class="btn btn-outline-primary btn-pill dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-   Modifica account
+   Modifica profilo
   </button>
   <ul class="dropdown-menu">
     <li class="dropdown-item" onclick="username()">Modifica username</li>
