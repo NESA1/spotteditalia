@@ -180,7 +180,6 @@ function username(){
   <ul class="dropdown-menu">
     <li class="dropdown-item" onclick="username()">Modifica username</li>
     <li><a class="dropdown-item" href="https://spotteditalia.eu/cambia_immagine">Cambia immagini di profilo</a></li>
-    <li><a class="dropdown-item" href="#">Something else here</a></li>
   </ul>
 </div>
 </center>
