@@ -207,3 +207,4 @@ function username(){
 }
 
 include "footer.php";
+?>
